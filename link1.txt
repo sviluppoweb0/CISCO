@@ -1,7 +1,8 @@
 CCNA:
 https://learningnetwork.cisco.com/community/certifications/ccna
 
-
+Packet tracer 7.0
+https://www.itechtics.com/download-cisco-packer-tracer-7-0-free-direct-download-links/
 
 SIMULATORI:
 https://www.tp-link.com/it/emulators.html
